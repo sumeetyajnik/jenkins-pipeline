@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.332.2-jdk11
+FROM jenkins/jenkins:lts-jdk11
 
 USER root
 RUN curl -v https://get.docker.com/ | sh
