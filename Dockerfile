@@ -1,7 +1,7 @@
 FROM jenkins/jenkins:2.332.2-jdk11
 
 USER root
-RUN curl -A "Mozilla Chrome Safari" https://get.docker.com/ | sh
+RUN curl -v https://get.docker.com/ | sh
 RUN usermod -a -G docker jenkins
 USER jenkins
 
