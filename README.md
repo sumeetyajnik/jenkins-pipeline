@@ -1,7 +1,6 @@
-Repository to go along with the following tutorials: 
+Repository is for: 
 
-* *Building a Spring Boot application in Jenkins* on the [theme-park-job]
-* *Building a Spring Boot application in Docker and Jenkins* on the [theme-park-job-docker]
+* *Building a Spring Boot application in Docker and Jenkins* on the [seed-job]
 * *Deploying a Spring Boot application into AWS with Jenkins* on the [theme-park-job-aws]
 
 ## Running Jenkins
